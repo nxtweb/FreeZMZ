@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"XMLHttp",
+				"XMLHttpRequest"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"js",
+				"JS"
+			],
+			[
+				"XMLHt",
+				"xmlHttpRequest"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"getLog",
+				"getLogById"
+			],
+			[
+				"sort_tabs",
+				"sort_tabs_by_name"
+			],
+			[
+				"bind",
+				"bindParam"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 382.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/bmc/application/config/database.php",
+		"/C/xampp/htdocs/inflow/application/views/registration_form.php",
+		"/C/xampp/htdocs/ajax/javascript/css/cssdemo.js",
+		"/C/xampp/htdocs/ajax/javascript/css/cssdemo.html",
+		"/C/xampp/htdocs/ajax/javascript/css/cssdemo.css",
+		"/C/xampp/htdocs/ajax/javascript/jsdom/jsdom.html",
+		"/C/xampp/htdocs/ajax/javascript/jsdom2/jsdom2.js",
+		"/C/xampp/htdocs/ajax/javascript/jsdom2/jsdom2.html",
+		"/C/xampp/htdocs/ajax/javascript/jsdom/jsdom.js",
+		"/C/xampp/htdocs/ajax/javascript/events/events.js",
+		"/C/xampp/htdocs/ajax/javascript/events/events.html",
+		"/C/xampp/htdocs/ajax/quickstart/index.html",
+		"/C/xampp/htdocs/purple_crm/application/controllers/.htaccess",
+		"/C/xampp/htdocs/purple_crm/application/.htaccess",
+		"/C/xampp/htdocs/purple_crm/.htaccess",
+		"/C/xampp/htdocs/purple_crm/application/controllers/overview.php",
+		"/C/xampp/htdocs/purple_crm/application/views/welcome.php",
+		"/C/xampp/htdocs/purple_crm/application/controllers/welcome.php",
+		"/C/xampp/htdocs/mayo2/classes/dbitems.php",
+		"/C/xampp/htdocs/mayo2/functions/getfunctions.php",
+		"/C/xampp/htdocs/mayo2/index.php",
+		"/C/xampp/htdocs/mayo/css/addedcss.css",
+		"/C/Users/Simon Lind/Desktop/index.html",
+		"/C/xampp/htdocs/mayo/css/bootstrap.css",
+		"/C/xampp/htdocs/citest/application/models/news_model.php",
+		"/C/xampp/htdocs/citest/application/views/header.php",
+		"/C/xampp/htdocs/citest/application/views/footer.php",
+		"/C/xampp/htdocs/laraveltest/laravel/app/config/app.php",
+		"/C/xampp/htdocs/adminpanel/includes/style.css",
+		"/C/xampp/htdocs/adminpanel/includes/classes/items.class.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/itemlist.php",
+		"/C/xampp/htdocs/adminpanel/includes/init.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/htmlhead.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/htmlfoot.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/editform.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/dblog.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/adminmenu.php",
+		"/C/xampp/htdocs/adminpanel/admin.php",
+		"/C/xampp/htdocs/adminpanel/includes/components/addform.php",
+		"/C/xampp/htdocs/adminpanel/js/jquery-1.10.2.min.js",
+		"/C/xampp/htdocs/adminpanel/includes/components/viewitems.php",
+		"/C/xampp/htdocs/adminpanel/nicEdit/nicEditorIcons.gif",
+		"/C/xampp/htdocs/adminpanel/includes/components/loggedin.php",
+		"/C/xampp/htdocs/adminpanel/css/bootstrap.css",
+		"/C/xampp/htdocs/adminpanel/includes/classes/itemadded.php",
+		"/C/xampp/htdocs/adminpanel/adminpanel.php",
+		"/C/xampp/htdocs/adminpanel/includes/config/database.php",
+		"/C/xampp/htdocs/adminpanel/includes/database.php",
+		"/C/xampp/htdocs/adminpanel/init.php",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/SortTabs/SortTabs.sublime-settings",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/logintutorial/settings.php",
+		"/C/Users/Simon Lind/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/logintutorial/css/style.css",
+		"/C/xampp/htdocs/logintutorial/register.php",
+		"/C/xampp/htdocs/logintutorial/members.php",
+		"/C/xampp/htdocs/logintutorial/logout.php",
+		"/C/xampp/htdocs/logintutorial/login.php",
+		"/C/xampp/htdocs/logintutorial/index.php",
+		"/C/xampp/htdocs/logintutorial/home.php",
+		"/C/xampp/htdocs/logintutorial/activate.php",
+		"/C/xampp/htdocs/mayoinsurance/css/addedcss.css",
+		"/C/xampp/htdocs/mayoinsurance/css/bootstrap.css",
+		"/C/xampp/htdocs/mayoinsurance/services.html",
+		"/C/xampp/htdocs/mayoinsurance/contact.html",
+		"/C/xampp/htdocs/mayoinsurance/about.html",
+		"/C/xampp/htdocs/mayoinsurance/css/bootstrap.min.css",
+		"/C/xampp/htdocs/africablog/includes/images/boxpattern.png",
+		"/C/xampp/htdocs/africablog/bootstrap/css/stylesheet.css",
+		"/C/xampp/htdocs/africablog/includes/images/backgroundpattern.png",
+		"/C/xampp/htdocs/africablog/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/africablog/includes/classes/classes.php",
+		"/C/xampp/htdocs/africablog/includes/navbar.php",
+		"/C/xampp/htdocs/africablog/includes/footer.php",
+		"/C/xampp/htdocs/africablog/admin.php",
+		"/C/xampp/htdocs/africablog/contact.php",
+		"/C/xampp/htdocs/africablog/archive.php",
+		"/C/xampp/htdocs/africablog/classes/db.class.php",
+		"/C/xampp/htdocs/africablog/includes/icons/kub-home.svg",
+		"/C/xampp/htdocs/africablog/includes/icons/kub-document.svg",
+		"/C/xampp/htdocs/africablog/includes/icons/kub-mail.svg",
+		"/C/xampp/htdocs/africablog/includes/icons/kub-download.svg",
+		"/C/xampp/htdocs/africablog/includes/header.php",
+		"/C/xampp/htdocs/africablog/includes/pictonic/css/pictonic.css",
+		"/C/xampp/htdocs/africablog/index.php",
+		"/C/xampp/htdocs/africablog/bootstrap/css/bootstrap-responsive.min.css",
+		"/C/xampp/htdocs/africablog/bootstrap/css/style.css",
+		"/C/Users/Simon Lind/Documents/bootstrap-3.0.0-wip/README.md",
+		"/C/xampp/htdocs/blogtutorial/read.php",
+		"/C/xampp/htdocs/blogtutorial/includes/functions/database.inc.php",
+		"/C/xampp/htdocs/blogtutorial/create.php",
+		"/C/xampp/htdocs/blogtutorial/delete.php",
+		"/C/xampp/htdocs/blogtutorial/includes/config.inc.php",
+		"/C/xampp/htdocs/blogtutorial/index.php",
+		"/C/xampp/htdocs/blogtutorial/includes/templates/footer.inc.php",
+		"/C/xampp/htdocs/blogtutorial/includes/templates/header.inc.php",
+		"/C/xampp/htdocs/blogtutorial/update.php",
+		"/C/xampp/htdocs/africablog/controllers/Controller.php",
+		"/C/xampp/htdocs/africablog/view/booklist.php",
+		"/C/xampp/htdocs/africablog/view/viewbook.php",
+		"/C/xampp/htdocs/africablog/model/Model.php",
+		"/C/xampp/htdocs/africablog/controller/Controller.php",
+		"/C/xampp/htdocs/africablog/model/Book.php",
+		"/C/xampp/htdocs/africablog/views/viewbook.php",
+		"/C/xampp/htdocs/africablog/views/booklist.php",
+		"/C/xampp/htdocs/africablog/models/Model.php",
+		"/C/xampp/htdocs/africablog/models/Book.php",
+		"/C/xampp/htdocs/africablog/.htacces.txt",
+		"/C/xampp/htdocs/africablog/include/js",
+		"/C/xampp/htdocs/africablog/include/stylesheet.css",
+		"/C/xampp/htdocs/africablog/include/navbar.php",
+		"/C/xampp/htdocs/africablog/stylesheet.css",
+		"/C/Users/Simon Lind/Documents/W3schools/W3schools Offline Version/www.w3schools.com/default.asp",
+		"/C/xampp/htdocs/summerschool/stylesheet.css",
+		"/C/xampp/htdocs/summerschool/navbar.php",
+		"/C/xampp/htdocs/summerschool/contact.php",
+		"/C/xampp/htdocs/summerschool/products.php",
+		"/C/xampp/htdocs/summerschool/index.php",
+		"/C/xampp/htdocs/summerschool/organic.php",
+		"/C/xampp/htdocs/summerschool/about.php",
+		"/C/xampp/htdocs/diary_project/functions.php",
+		"/C/xampp/htdocs/diary_project/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\adminpanel",
+			"C:\\xampp\\htdocs\\adminpanel\\js",
+			"",
+			"C:\\xampp\\htdocs\\adminpanel",
+			"C:\\xampp\\htdocs\\adminpanel,C:\\xampp\\htdocs\\logintutorial",
+			"C:\\xampp\\htdocs\\adminpanel",
+			"C:\\xampp\\htdocs\\logintutorial"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new_canvas",
+			">",
+			"pre",
+			"phone_number",
+			"name",
+			"img",
+			".panel-heading",
+			"panel",
+			"accordion",
+			"glyph",
+			":hover",
+			"background-color",
+			"background",
+			"border",
+			"left",
+			"main",
+			"white",
+			"main",
+			"partnerlistlarge",
+			"partnerlist",
+			"img",
+			" p",
+			"task_model",
+			"Deny from all",
+			"header",
+			"$_SESSION",
+			"left",
+			"li",
+			"top",
+			";\n",
+			"partnerlist",
+			"8",
+			"png",
+			"<div class=\"item slide_one\">\n                            <img src=\"images/mayo.png\" alt=\"...\">\n                            <div class=\"carousel-caption\">\n                              ...\n                            </div>\n                          </div>",
+			"slide3",
+			"{\n",
+			"main",
+			"left",
+			":;",
+			"ipsumLorem",
+			"row",
+			" </",
+			"purple",
+			"0",
+			"3em",
+			"center",
+			"4em",
+			"left",
+			"greenborder",
+			"skitter",
+			"wrapper",
+			"form",
+			"text-align",
+			"white",
+			"font-family",
+			"box",
+			"white",
+			".container",
+			"container",
+			"background-image",
+			"font-family\n",
+			"#menu\n",
+			"menu\n",
+			"margin-top\n",
+			"45\n",
+			"35\n",
+			");\n",
+			"font-family",
+			"nav_bar",
+			"list",
+			"menu",
+			"footer",
+			"box",
+			"container",
+			"white",
+			"background",
+			"border-top",
+			"border-bottom",
+			"nav-tabs",
+			"nav-pills",
+			"right",
+			".nav",
+			"wrapper",
+			"color",
+			"<;",
+			"white",
+			"footer",
+			"purpleborder",
+			");\n",
+			"About",
+			"ssl",
+			"helptext",
+			"homebutton",
+			"logform",
+			"logtable",
+			"col3",
+			"itemform",
+			"context\n",
+			".icontext\n",
+			"icontext\n",
+			");\n",
+			"page",
+			"ul",
+			"title",
+			"itemlistheader",
+			"#itemrow",
+			"ul,",
+			"col-md-2",
+			"actionicon",
+			".itemlistheader",
+			".col-md-2",
+			"col-md-2",
+			"ul",
+			"display",
+			"inline",
+			"htmlspecialchars",
+			"itemlist",
+			"itemlistpreview",
+			"2",
+			"hidden",
+			"left",
+			"th",
+			"timestamp",
+			"time",
+			"timestamp",
+			"left",
+			"mainwindow",
+			"footer"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"timestamp",
+			"time",
+			"li",
+			"type",
+			"",
+			"blue",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.890053369434,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
